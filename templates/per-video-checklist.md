@@ -1,10 +1,10 @@
 # Per-Video Checklist (Compliance, Quality, Originality)
 
-> **Purpose:** One table you complete for every long video and every Short before it goes public.
-> **Use when:** The day before each publish date (the "gate date" in the [content calendar](content-calendar.md)).
-> **Time needed:** 20 to 30 minutes per long video; 10 minutes per Short.
-> **Needs:** The finished video file, script, thumbnail, title, description, a list of every asset you used, your [STYLE_BIBLE].
-> **Cost:** $0
+> **Purpose:**  One table you complete for every long video and every Short before it goes public.  
+> **Use when:**  The day before each publish date (the "gate date" in the [content calendar](content-calendar.md)).  
+> **Time needed:**  20 to 30 minutes per long video; 10 minutes per Short.  
+> **Needs:**  The finished video file, script, thumbnail, title, description, a list of every asset you used, your [STYLE_BIBLE].  
+> **Cost:**  $0
 
 ## Inputs
 
