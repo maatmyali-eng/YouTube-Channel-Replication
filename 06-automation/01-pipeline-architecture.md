@@ -1,10 +1,10 @@
 # Pipeline Architecture: Research to Analytics Feedback Loop
 
-> Purpose: Show the full production pipeline as one diagram, and for every stage name the repo file, the free tool, the input and output files, what can be automated, and what must stay human.
-> Use when: Before you automate anything. Read this once, then run one video through the pipeline by hand.
-> Time needed: 45 minutes to read and fill P-AUTO-01.
-> Needs: Completed [STYLE_BIBLE] from 01-channel-dna, a Google account.
-> Cost: $0
+> **Purpose:** Show the full production pipeline as one diagram, and for every stage name the repo file, the free tool, the input and output files, what can be automated, and what must stay human.  
+> **Use when:** Before you automate anything. Read this once, then run one video through the pipeline by hand.  
+> **Time needed:** 45 minutes to read and fill P-AUTO-01.  
+> **Needs:** Completed [STYLE_BIBLE] from 01-channel-dna, a Google account.  
+> **Cost:** $0
 
 ## Inputs
 
