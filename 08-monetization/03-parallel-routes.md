@@ -1,10 +1,10 @@
 # Parallel Monetization Routes
 
-> Purpose: Rank the ways to earn money alongside YPP, by speed and realism for your [COUNTRY] and [NICHE], with a $0 start for each.
-> Use when: Week 3 of the 30-day plan (Day 15), or any time YPP is still weeks away.
-> Time needed: 1 hour to choose a route, 2 to 6 hours to set it up.
-> Needs: The country card from 01-reality-and-timeline-math.md and at least one published video.
-> Cost: $0
+> **Purpose:**  Rank the ways to earn money alongside YPP, by speed and realism for your [COUNTRY] and [NICHE], with a $0 start for each.  
+> **Use when:**  Week 3 of the 30-day plan (Day 15), or any time YPP is still weeks away.  
+> **Time needed:**  1 hour to choose a route, 2 to 6 hours to set it up.  
+> **Needs:**  The country card from 01-reality-and-timeline-math.md and at least one published video.  
+> **Cost:**  $0  
 
 ## Inputs
 
