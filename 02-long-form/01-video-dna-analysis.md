@@ -1,10 +1,10 @@
 # Video DNA Analysis (Long-Form)
 
-> **Purpose:** Turn one long-form video from the channel you are modelling into a list of reusable mechanics (hook, beats, open loops, interrupts, visual logic, sound, ending), without keeping any of its wording.
-> **Use when:** After you have picked 3 to 5 videos from the channel analysis, and before you write your first script.
-> **Time needed:** 45 to 60 minutes per video (watching plus one prompt run).
-> **Needs:** A browser, a free AI chat assistant, a plain-text editor, the [STYLE_BIBLE] draft if you have one.
-> **Cost:** $0
+> **Purpose:** Turn one long-form video from the channel you are modelling into a list of reusable mechanics (hook, beats, open loops, interrupts, visual logic, sound, ending), without keeping any of its wording.  
+> **Use when:** After you have picked 3 to 5 videos from the channel analysis, and before you write your first script.  
+> **Time needed:** 45 to 60 minutes per video (watching plus one prompt run).  
+> **Needs:** A browser, a free AI chat assistant, a plain-text editor, the [STYLE_BIBLE] draft if you have one.  
+> **Cost:** $0  
 
 Why this file exists: the Style Bible (see `../01-channel-dna/03-style-bible-template.md`) describes a channel in general. This file measures single videos so the Style Bible rests on evidence and so your scripts copy mechanics at the right timing. It never copies sentences, jokes, footage, or music. Copying those would be reused content, and YouTube's inauthentic-content clarification of 16 July 2026 targets generic, repetitive, template-based output (verified 2026-10-20). Copying mechanics is how every genre forms.
 
