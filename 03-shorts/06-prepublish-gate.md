@@ -1,9 +1,9 @@
 # Shorts Pre-Publish Gate
 
-> **Purpose:** Decide GO, FIX, or STOP for each Short before it goes public, and understand how Shorts views relate to the monetization thresholds. 
-> **Use when:** Every Short is finished and exported, before you upload it publicly. 
-> **Time needed:** 15 to 25 minutes per Short. 
-> **Needs:** The exported file, the script table, `music-log.csv`, `visuals-log.csv`, a free AI chat assistant. 
+> **Purpose:** Decide GO, FIX, or STOP for each Short before it goes public, and understand how Shorts views relate to the monetization thresholds.  
+> **Use when:** Every Short is finished and exported, before you upload it publicly.  
+> **Time needed:** 15 to 25 minutes per Short.  
+> **Needs:** The exported file, the script table, `music-log.csv`, `visuals-log.csv`, a free AI chat assistant.  
 > **Cost:** $0
 
 ## Inputs
