@@ -1,10 +1,10 @@
 # Reality and Timeline Math
 
-> Purpose: Work out honestly how long each YouTube Partner Program (YPP) tier takes, and what money can and cannot arrive in 10, 20 and 30 days.
-> Use when: Before you promise yourself any monetization date, and again at every weekly review.
-> Time needed: 45 minutes the first time, 10 minutes per re-run.
-> Needs: A calculator or a spreadsheet, access to YouTube Studio if the channel exists, and the official pages named in Step 5.
-> Cost: $0
+> **Purpose:** Work out honestly how long each YouTube Partner Program (YPP) tier takes, and what money can and cannot arrive in 10, 20 and 30 days.  
+> **Use when:** Before you promise yourself any monetization date, and again at every weekly review.  
+> **Time needed:** 45 minutes the first time, 10 minutes per re-run.  
+> **Needs:** A calculator or a spreadsheet, access to YouTube Studio if the channel exists, and the official pages named in Step 5.  
+> **Cost:** $0
 
 ## Inputs
 
