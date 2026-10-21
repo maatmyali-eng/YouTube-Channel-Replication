@@ -1,6 +1,10 @@
 # Build Your Own, Part 5: Channel Style Analyzer Starter
 
-> Purpose: build a local tool that measures a channel's public style and assembles a Style Bible in the exact format of your template | Use when: you model a new channel and want the analysis repeatable | Time needed: 1 to 2 days across milestones | Needs: Python 3.11 or later, a free Claude or Gemini chat, optionally a free YouTube Data API key | Cost: $0
+> **Purpose:** build a local tool that measures a channel's public style and assembles a Style Bible in the exact format of your template  
+> **Use when:** you model a new channel and want the analysis repeatable  
+> **Time needed:** 1 to 2 days across milestones  
+> **Needs:** Python 3.11 or later, a free Claude or Gemini chat, optionally a free YouTube Data API key  
+> **Cost:** $0
 
 ## Inputs
 
