@@ -1,9 +1,9 @@
 # Quick Start: First 24 Hours, First 7 Days, First 30 Days
 
-> **Purpose:** One page that tells you what to do, in order, with a link to every file you need.
-> **Use when:** You have just cloned this repo and want to model one channel's style without reading everything first.
-> **Time needed:** 24 hours checklist about 3 hours; first 7 days about 12 to 18 hours; first 30 days depends on [WEEKLY_HOURS].
-> **Needs:** A Google account, a free YouTube channel, a text editor or Google Docs, and a free AI chat tool (see [free tool stack](../00-start-here/04-free-tool-stack.md)).
+> **Purpose:** One page that tells you what to do, in order, with a link to every file you need.  
+> **Use when:** You have just cloned this repo and want to model one channel's style without reading everything first.  
+> **Time needed:** 24 hours checklist about 3 hours; first 7 days about 12 to 18 hours; first 30 days depends on [WEEKLY_HOURS].  
+> **Needs:** A Google account, a free YouTube channel, a text editor or Google Docs, and a free AI chat tool (see [free tool stack](../00-start-here/04-free-tool-stack.md)).  
 > **Cost:** $0
 
 ## Inputs
