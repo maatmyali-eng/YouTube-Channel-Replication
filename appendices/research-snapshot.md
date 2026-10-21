@@ -1,9 +1,9 @@
 # Research Snapshot (Dated Facts, Sources, and How to Re-Verify)
 
-> **Purpose:** One place that lists every time-sensitive fact this repo relies on, where it came from, when it was checked, and how to check it again.
-> **Use when:** Before you apply for YPP, before you buy or rely on any tool, and whenever a policy announcement appears.
-> **Time needed:** 15 minutes to re-verify one row; about 2 hours for the full table.
-> **Needs:** A browser and a web-enabled AI chat tool or search engine.
+> **Purpose:** One place that lists every time-sensitive fact this repo relies on, where it came from, when it was checked, and how to check it again.  
+> **Use when:** Before you apply for YPP, before you buy or rely on any tool, and whenever a policy announcement appears.  
+> **Time needed:** 15 minutes to re-verify one row; about 2 hours for the full table.  
+> **Needs:** A browser and a web-enabled AI chat tool or search engine.  
 > **Cost:** $0
 
 ## Inputs
