@@ -1,10 +1,10 @@
 # Mistakes to Avoid
 
-> Purpose: List the tactics that cost channels their monetization, explain how each backfires, and give recovery steps for a strike or demonetization.
-> Use when: Before you try any growth shortcut, at the Day 27 audit, and the day a policy notice arrives.
-> Time needed: 30 minutes to read, 1 to 3 hours for a recovery.
-> Needs: Your channel's Studio access and the notification email if you received one.
-> Cost: $0
+> **Purpose:** List the tactics that cost channels their monetization, explain how each backfires, and give recovery steps for a strike or demonetization.  
+> **Use when:** Before you try any growth shortcut, at the Day 27 audit, and the day a policy notice arrives.  
+> **Time needed:** 30 minutes to read, 1 to 3 hours for a recovery.  
+> **Needs:** Your channel's Studio access and the notification email if you received one.  
+> **Cost:** $0
 
 ## Inputs
 
