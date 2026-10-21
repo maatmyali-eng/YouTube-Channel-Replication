@@ -1,10 +1,10 @@
 # Shorts DNA Analysis
 
-> **Purpose:** Turn any channel's Shorts into measurable style rules (hook, pacing, on-screen text, captions, sound, loop) without copying a word.
-> **Use when:** Before you write the first Short for [CHANNEL_NAME], and again whenever the modelled channel changes its Shorts format.
-> **Time needed:** 90 to 120 minutes for 8 Shorts.
-> **Needs:** A browser, Google Sheets, and any free AI chat assistant.
-> **Cost:** $0
+> **Purpose:** Turn any channel's Shorts into measurable style rules (hook, pacing, on-screen text, captions, sound, loop) without copying a word.  
+> **Use when:** Before you write the first Short for [CHANNEL_NAME], and again whenever the modelled channel changes its Shorts format.  
+> **Time needed:** 90 to 120 minutes for 8 Shorts.  
+> **Needs:** A browser, Google Sheets, and any free AI chat assistant.  
+> **Cost:** $0  
 
 Shorts are a separate system from long-form. A long video earns attention across minutes and is judged mostly by click and watch time. A Short is shown to a viewer who is already swiping, so the first second, the loop, and the length decide almost everything. Do not reuse your long-form analysis here. Run this one.
 
