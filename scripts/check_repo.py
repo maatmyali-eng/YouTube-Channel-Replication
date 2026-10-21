@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-check_repo.py - integrity checker and prompt-library generator for yt-style-system.
+check_repo.py - integrity checker and prompt-library generator for YouTube-Channel-Replication.
 
 Standard library only. Needs Python 3.8 or newer.
 
@@ -293,7 +293,7 @@ def section(title):
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description="Check the yt-style-system repo.")
+    parser = argparse.ArgumentParser(description="Check the YouTube-Channel-Replication repo.")
     parser.add_argument("--root", help="repo root (default: parent of the scripts folder)")
     parser.add_argument("--strict", action="store_true", help="treat warnings as failures")
     parser.add_argument("--no-write", action="store_true", help="do not rewrite prompt-library.md")
