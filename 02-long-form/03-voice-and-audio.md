@@ -1,10 +1,10 @@
 # Voice and Audio (Long-Form)
 
-> **Purpose:** Produce clean, correctly mixed, correctly licensed narration and sound for a long-form video using only free tools.
-> **Use when:** Script v2 has passed P-LONG-07 and P-LONG-08 and you are ready to record or synthesize the voice.
-> **Time needed:** 1.5 to 3 hours for a 10-minute video the first time; 45 minutes once set up.
-> **Needs:** Script from `02-script-prompt-chain.md`, a phone or PC, Audacity (free), FFmpeg (free), optionally Python 3.
-> **Cost:** $0
+> **Purpose:** Produce clean, correctly mixed, correctly licensed narration and sound for a long-form video using only free tools.  
+> **Use when:** Script v2 has passed P-LONG-07 and P-LONG-08 and you are ready to record or synthesize the voice.  
+> **Time needed:** 1.5 to 3 hours for a 10-minute video the first time; 45 minutes once set up.  
+> **Needs:** Script from `02-script-prompt-chain.md`, a phone or PC, Audacity (free), FFmpeg (free), optionally Python 3.  
+> **Cost:** $0  
 
 ## Inputs
 
