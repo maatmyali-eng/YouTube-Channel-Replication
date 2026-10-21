@@ -1,9 +1,9 @@
 # Vertical Visuals and Editing in Free Tools
 
-> **Purpose:** Film, edit, caption, mix, and export a Short in 1080 x 1920 using only free tools, with safe zones, caption templates, a music decision, and a batch routine.
-> **Use when:** You have an approved script table from `02-script-prompt-chain.md` or `03-batch-scripts.md`.
-> **Time needed:** 60 to 120 minutes per Short at first, less once the template project exists.
-> **Needs:** A phone with a camera, a computer, DaVinci Resolve (free), Python with Pillow (optional), a free AI chat assistant.
+> **Purpose:** Film, edit, caption, mix, and export a Short in 1080 x 1920 using only free tools, with safe zones, caption templates, a music decision, and a batch routine.  
+> **Use when:** You have an approved script table from `02-script-prompt-chain.md` or `03-batch-scripts.md`.  
+> **Time needed:** 60 to 120 minutes per Short at first, less once the template project exists.  
+> **Needs:** A phone with a camera, a computer, DaVinci Resolve (free), Python with Pillow (optional), a free AI chat assistant.  
 > **Cost:** $0
 
 ## Inputs
