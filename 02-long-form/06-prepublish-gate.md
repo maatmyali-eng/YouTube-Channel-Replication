@@ -1,10 +1,10 @@
 # Pre-Publish Gate (Long-Form)
 
-> **Purpose:** Make a final go, fix, or stop decision on one long-form video using quality and compliance checks before you publish.
-> **Use when:** The video is exported, metadata is drafted, and the upload page is open but you have not pressed Publish or Schedule.
-> **Time needed:** 20 to 30 minutes.
-> **Needs:** The video folder with all outputs, `music-log.csv`, `visuals-log.csv`, `../00-start-here/03-compliance-master-checklist.md`, `../05-originality-layer/02-scoring-rubric.md`.
-> **Cost:** $0
+> **Purpose:** Make a final go, fix, or stop decision on one long-form video using quality and compliance checks before you publish.  
+> **Use when:** The video is exported, metadata is drafted, and the upload page is open but you have not pressed Publish or Schedule.  
+> **Time needed:** 20 to 30 minutes.  
+> **Needs:** The video folder with all outputs, `music-log.csv`, `visuals-log.csv`, `../00-start-here/03-compliance-master-checklist.md`, `../05-originality-layer/02-scoring-rubric.md`.  
+> **Cost:** $0  
 
 This gate exists because the cost of publishing a weak or non-compliant video is not one failed video. YouTube's inauthentic-content enforcement reportedly looks at patterns across a channel's recent uploads, so one bad habit can affect monetization channel-wide (reported by third-party coverage of the 16 July 2026 clarification; VERIFY BEFORE RELYING on YouTube Help, "YouTube channel monetization policies"). Nothing in this gate guarantees approval or income; it only raises the odds and removes avoidable mistakes.
 
