@@ -1,9 +1,9 @@
 # Troubleshooting and FAQ
 
-> **Purpose:** Find your symptom, apply the fix, record what happened.
-> **Use when:** Something is rejected, flagged, slow, locked, or sounds wrong.
-> **Time needed:** 5 to 30 minutes per problem.
-> **Needs:** Access to YouTube Studio and your [tracking sheet](03-tracking-sheet.md).
+> **Purpose:** Find your symptom, apply the fix, record what happened.  
+> **Use when:** Something is rejected, flagged, slow, locked, or sounds wrong.  
+> **Time needed:** 5 to 30 minutes per problem.  
+> **Needs:** Access to YouTube Studio and your [tracking sheet](03-tracking-sheet.md).  
 > **Cost:** $0
 
 ## Inputs
