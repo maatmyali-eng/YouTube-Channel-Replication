@@ -1,10 +1,10 @@
 # Style Bible: Prompt and Blank Template
 
-> Purpose: Convert the audited channel report into one reusable Channel Style Bible that every later prompt reads as [STYLE_BIBLE].
-> Use when: After 02-channel-analysis.md, when P-CDNA-01 and P-CDNA-08 are done.
-> Time needed: 45 to 60 minutes.
-> Needs: The audited report, your Watch Notes, any free AI chat tool, a text editor.
-> Cost: $0
+> **Purpose:** Convert the audited channel report into one reusable Channel Style Bible that every later prompt reads as [STYLE_BIBLE].  
+> **Use when:** After 02-channel-analysis.md, when P-CDNA-01 and P-CDNA-08 are done.  
+> **Time needed:** 45 to 60 minutes.  
+> **Needs:** The audited report, your Watch Notes, any free AI chat tool, a text editor.  
+> **Cost:** $0  
 
 ## Inputs
 
