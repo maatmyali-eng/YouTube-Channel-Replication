@@ -1,10 +1,10 @@
 # Data Gathering: ToS-Safe Collection for [CHANNEL_URL]
 
-> Purpose: Collect the public facts about one channel that the analysis prompts need.
-> Use when: Starting a new channel model, before running anything in 02-channel-analysis.md.
-> Time needed: 2 to 3 hours by hand for 15 videos; about 20 minutes extra for the optional API workflow.
-> Needs: A browser, a Google account, Google Sheets, a private folder for notes.
-> Cost: $0
+> **Purpose:** Collect the public facts about one channel that the analysis prompts need.
+> **Use when:** Starting a new channel model, before running anything in 02-channel-analysis.md.
+> **Time needed:** 2 to 3 hours by hand for 15 videos; about 20 minutes extra for the optional API workflow.
+> **Needs:** A browser, a Google account, Google Sheets, a private folder for notes.
+> **Cost:** $0
 
 ## Inputs
 
