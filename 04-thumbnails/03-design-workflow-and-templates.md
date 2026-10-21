@@ -1,10 +1,10 @@
 # Thumbnail Design Workflow and Templates
 
-> Purpose: Build finished thumbnails with free editors, using 5 reusable layouts, a font and color method, and a weekly batch routine.
-> Use when: You have image prompts or owned photos from 02-original-generation.md and need finished 1280 x 720 files.
-> Time needed: 25 minutes per thumbnail the first week; about 10 minutes after templates exist.
-> Needs: A browser. Canva free or Photopea or GIMP.
-> Cost: $0
+> **Purpose:** Build finished thumbnails with free editors, using 5 reusable layouts, a font and color method, and a weekly batch routine.  
+> **Use when:** You have image prompts or owned photos from 02-original-generation.md and need finished 1280 x 720 files.  
+> **Time needed:** 25 minutes per thumbnail the first week; about 10 minutes after templates exist.  
+> **Needs:** A browser. Canva free or Photopea or GIMP.  
+> **Cost:** $0
 
 ## Inputs
 
