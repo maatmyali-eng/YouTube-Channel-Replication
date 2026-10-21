@@ -1,10 +1,10 @@
 # Script Prompt Chain (Long-Form)
 
-> **Purpose:** Take a video from topic to a fact-checked, original-checked script through seven linked prompts, P-LONG-02 to P-LONG-08.
-> **Use when:** You have a Style Bible and at least one video DNA report, and you are ready to make a video.
-> **Time needed:** 2 to 4 hours for the first video, about 90 minutes once you know the chain.
-> **Needs:** [STYLE_BIBLE], a free AI chat assistant (ideally one with web search for P-LONG-07), a plain-text editor, a folder per video.
-> **Cost:** $0
+> **Purpose:** Take a video from topic to a fact-checked, original-checked script through seven linked prompts, P-LONG-02 to P-LONG-08.  
+> **Use when:** You have a Style Bible and at least one video DNA report, and you are ready to make a video.  
+> **Time needed:** 2 to 4 hours for the first video, about 90 minutes once you know the chain.  
+> **Needs:** [STYLE_BIBLE], a free AI chat assistant (ideally one with web search for P-LONG-07), a plain-text editor, a folder per video.  
+> **Cost:** $0  
 
 The chain is deliberately not one-click. Each prompt produces a file that the next prompt consumes, and a human step sits between them. The human steps are where your original value gets added, and original value is what separates a channel from the "generic, repetitive, or template-based" category that YouTube treats as non-monetizable (clarified 16 July 2026; verified 2026-10-20).
 
