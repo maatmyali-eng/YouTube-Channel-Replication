@@ -1,10 +1,10 @@
 # 30-Day Plan
 
-> Purpose: A day-by-day plan for days 1 to 30 with daily tasks, output quotas scaled to your weekly hours, and four weekly review points.
-> Use when: You are starting a channel or restarting one, and you have finished 01-reality-and-timeline-math.md.
-> Time needed: 4 to 25 hours per week depending on your band (Step 1).
-> Needs: The setup card filled in, the free tools from 00-start-here/04-free-tool-stack.md, and a tracking sheet.
-> Cost: $0
+> **Purpose:**  A day-by-day plan for days 1 to 30 with daily tasks, output quotas scaled to your weekly hours, and four weekly review points.  
+> **Use when:**  You are starting a channel or restarting one, and you have finished 01-reality-and-timeline-math.md.  
+> **Time needed:**  4 to 25 hours per week depending on your band (Step 1).  
+> **Needs:**  The setup card filled in, the free tools from 00-start-here/04-free-tool-stack.md, and a tracking sheet.  
+> **Cost:**  $0
 
 ## Inputs
 
