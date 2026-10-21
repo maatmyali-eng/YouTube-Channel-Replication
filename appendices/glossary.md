@@ -1,9 +1,9 @@
 # Glossary
 
-> **Purpose:** Plain definitions of the terms used across this repo, so every file means the same thing.
-> **Use when:** A term in a prompt, checklist, or YouTube notice is unclear.
-> **Time needed:** 1 to 3 minutes per lookup.
-> **Needs:** Nothing.
+> **Purpose:** Plain definitions of the terms used across this repo, so every file means the same thing.  
+> **Use when:** A term in a prompt, checklist, or YouTube notice is unclear.  
+> **Time needed:** 1 to 3 minutes per lookup.  
+> **Needs:** Nothing.  
 > **Cost:** $0
 
 ## Inputs
