@@ -1,10 +1,10 @@
 # Human-in-the-Loop Checkpoints
 
-> Purpose: Define eight checkpoints, C1 to C8, that a person must pass before a video moves on, so that automation never publishes unreviewed content.
-> Use when: Always. Every video and every Short passes these gates.
-> Time needed: About 2.5 hours of checking per 10-minute long video, 25 to 35 minutes per Short.
-> Needs: The `Pipeline` sheet, the video folder, `review-log.md`.
-> Cost: $0
+> **Purpose:** Define eight checkpoints, C1 to C8, that a person must pass before a video moves on, so that automation never publishes unreviewed content.  
+> **Use when:** Always. Every video and every Short passes these gates.  
+> **Time needed:** About 2.5 hours of checking per 10-minute long video, 25 to 35 minutes per Short.  
+> **Needs:** The `Pipeline` sheet, the video folder, `review-log.md`.  
+> **Cost:** $0
 
 ## The main risk, stated plainly
 
