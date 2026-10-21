@@ -1,10 +1,10 @@
 # Thumbnail DNA Analysis
 
-> Purpose: Turn the thumbnails of [CHANNEL_URL] into a written rule set you can reuse without copying any single image.
-> Use when: Before you design any thumbnail for [CHANNEL_NAME].
-> Time needed: 45 to 60 minutes for 20 thumbnails.
-> Needs: A browser, a spreadsheet (Google Sheets), any free chat AI.
-> Cost: $0
+> **Purpose:** Turn the thumbnails of [CHANNEL_URL] into a written rule set you can reuse without copying any single image.  
+> **Use when:** Before you design any thumbnail for [CHANNEL_NAME].  
+> **Time needed:** 45 to 60 minutes for 20 thumbnails.  
+> **Needs:** A browser, a spreadsheet (Google Sheets), any free chat AI.  
+> **Cost:** $0
 
 ## Inputs
 
