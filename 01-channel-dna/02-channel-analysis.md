@@ -1,10 +1,10 @@
 # Channel Analysis: Master Report, Comparison, Gaps, and Safety Screen
 
-> Purpose: Turn the collected data into a structured, honest report on one channel's style and strategy.
-> Use when: After 01-data-gathering.md is complete, and before filling the Style Bible.
-> Time needed: 60 to 90 minutes per channel.
-> Needs: Your Google Sheet, saved transcripts, Watch Notes, any free AI chat tool.
-> Cost: $0
+> **Purpose:** Turn the collected data into a structured, honest report on one channel's style and strategy.  
+> **Use when:** After 01-data-gathering.md is complete, and before filling the Style Bible.  
+> **Time needed:** 60 to 90 minutes per channel.  
+> **Needs:** Your Google Sheet, saved transcripts, Watch Notes, any free AI chat tool.  
+> **Cost:** $0  
 
 ## Inputs
 
