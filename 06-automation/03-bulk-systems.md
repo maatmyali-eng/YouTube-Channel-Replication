@@ -1,10 +1,10 @@
 # Bulk Systems: Batch Research, Scripts, Shorts, Thumbnails, and Metadata
 
-> Purpose: Run the pipeline in weekly batches with one workspace, one naming scheme, one status system, and a routine sized to [WEEKLY_HOURS].
-> Use when: Your first video has passed all eleven stages by hand (see `01-pipeline-architecture.md`) and you want to repeat the work faster.
-> Time needed: 60 minutes to set up the workspace, then one weekly batch routine.
-> Needs: The `Pipeline` sheet from `02-no-code-workflow.md`, the [STYLE_BIBLE], a folder on your computer or Google Drive.
-> Cost: $0
+> **Purpose:** Run the pipeline in weekly batches with one workspace, one naming scheme, one status system, and a routine sized to [WEEKLY_HOURS].  
+> **Use when:** Your first video has passed all eleven stages by hand (see `01-pipeline-architecture.md`) and you want to repeat the work faster.  
+> **Time needed:** 60 minutes to set up the workspace, then one weekly batch routine.  
+> **Needs:** The `Pipeline` sheet from `02-no-code-workflow.md`, the [STYLE_BIBLE], a folder on your computer or Google Drive.  
+> **Cost:** $0
 
 ## Inputs
 
