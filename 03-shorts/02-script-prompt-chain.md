@@ -1,10 +1,10 @@
 # Shorts Script Prompt Chain
 
-> **Purpose:** Write one original 15 to 60 second Short with a second-by-second table and a designed loop ending.
-> **Use when:** You have a [SHORTS_DNA] block and one idea for one Short.
-> **Time needed:** 25 to 40 minutes per Short.
-> **Needs:** Any free AI chat assistant, a stopwatch (phone clock), the file `reports/shorts-dna-<date>.md`.
-> **Cost:** $0
+> **Purpose:** Write one original 15 to 60 second Short with a second-by-second table and a designed loop ending.  
+> **Use when:** You have a [SHORTS_DNA] block and one idea for one Short.  
+> **Time needed:** 25 to 40 minutes per Short.  
+> **Needs:** Any free AI chat assistant, a stopwatch (phone clock), the file `reports/shorts-dna-<date>.md`.  
+> **Cost:** $0  
 
 This chain writes one Short at a time. For 10 to 30 Shorts in one run use `03-batch-scripts.md`. A Short carries one claim and one payoff. If you need two claims, you have two Shorts.
 
