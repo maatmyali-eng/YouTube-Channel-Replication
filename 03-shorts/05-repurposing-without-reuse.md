@@ -1,9 +1,9 @@
 # Repurposing Long-Form Into Shorts Without Reuse
 
-> **Purpose:** Turn your own long videos into new Shorts that pass a difference test, so they are not treated as reused, repetitious, or templated content.
-> **Use when:** You have published or finished a long video for [CHANNEL_NAME] and want Shorts from the same research, footage, or ideas.
-> **Time needed:** 30 to 45 minutes per Short, plus the difference test.
-> **Needs:** The transcript and visuals list of your own long video, a free AI chat assistant, Python (optional, for the overlap check).
+> **Purpose:** Turn your own long videos into new Shorts that pass a difference test, so they are not treated as reused, repetitious, or templated content.  
+> **Use when:** You have published or finished a long video for [CHANNEL_NAME] and want Shorts from the same research, footage, or ideas.  
+> **Time needed:** 30 to 45 minutes per Short, plus the difference test.  
+> **Needs:** The transcript and visuals list of your own long video, a free AI chat assistant, Python (optional, for the overlap check).  
 > **Cost:** $0
 
 ## Inputs
