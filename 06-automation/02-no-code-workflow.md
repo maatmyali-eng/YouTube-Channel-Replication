@@ -1,10 +1,10 @@
 # Workflow A: No-Code Pipeline (Sheets, Forms, Free Automation Tier, Free LLM)
 
-> Purpose: Build a working script-drafting and metadata-drafting pipeline with no code, using Google Forms, Google Sheets, a free automation tier, and a free LLM tier.
-> Use when: You have never automated anything, or you want a pipeline you can rebuild in under two hours.
-> Time needed: 90 to 120 minutes for setup, then about 10 minutes per week to run.
-> Needs: A Google account, a free Make account, a free Google AI Studio API key.
-> Cost: $0
+> **Purpose:** Build a working script-drafting and metadata-drafting pipeline with no code, using Google Forms, Google Sheets, a free automation tier, and a free LLM tier.  
+> **Use when:** You have never automated anything, or you want a pipeline you can rebuild in under two hours.  
+> **Time needed:** 90 to 120 minutes for setup, then about 10 minutes per week to run.  
+> **Needs:** A Google account, a free Make account, a free Google AI Studio API key.  
+> **Cost:** $0
 
 ## Inputs
 
