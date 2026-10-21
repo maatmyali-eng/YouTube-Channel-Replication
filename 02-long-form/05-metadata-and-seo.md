@@ -1,10 +1,10 @@
 # Metadata and SEO (Long-Form)
 
-> **Purpose:** Produce honest titles, description, chapters, pinned comment, end-screen plan, and upload settings, and pair the title with the thumbnail so they make one promise.
+> **Purpose:** Produce honest titles, description, chapters, pinned comment, end-screen plan, and upload settings, and pair the title with the thumbnail so they make one promise.  
 > **Use when:** The video is exported and captions are ready, before you open the upload page.
-> **Time needed:** 30 to 45 minutes per video.
-> **Needs:** Final script, final exported video, `music-log.csv`, the thumbnail concept (see `../04-thumbnails/02-original-generation.md`), a free AI chat assistant.
-> **Cost:** $0
+> **Time needed:** 30 to 45 minutes per video.  
+> **Needs:** Final script, final exported video, `music-log.csv`, the thumbnail concept (see `../04-thumbnails/02-original-generation.md`), a free AI chat assistant.  
+> **Cost:** $0  
 
 Metadata is the packaging, and packaging that overpromises damages retention and can break platform rules. Every instruction below assumes the video delivers what the title and thumbnail say. If it does not, fix the video or the packaging; never write metadata to hide the gap. Misleading titles, thumbnails, and descriptions are a policy risk, and this repo does not use them.
 
