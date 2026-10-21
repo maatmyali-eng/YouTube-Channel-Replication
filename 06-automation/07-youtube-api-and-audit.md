@@ -1,10 +1,10 @@
 # YouTube Data API Track, Private Upload Script, and Compliance Audit
 
-> Purpose: Set up the YouTube Data API for private uploads from your pipeline, explain the private-upload lock and quota buckets, show how the compliance audit works, and give a safe fallback that needs no API at all.
-> Use when: Your pipeline already produces reviewed files and you want them to land in YouTube Studio as private drafts without hand uploading. This track is optional. You do not need it to monetize.
-> Time needed: About 90 minutes for the API setup and a first private upload. The audit application is a separate project of several hours plus waiting time with no guaranteed outcome.
-> Needs: A Google account that owns the channel, Python 3.11, finished videos that have passed gates C1 to C8, `04-human-checkpoints.md` read.
-> Cost: $0
+> **Purpose:** Set up the YouTube Data API for private uploads from your pipeline, explain the private-upload lock and quota buckets, show how the compliance audit works, and give a safe fallback that needs no API at all.  
+> **Use when:** Your pipeline already produces reviewed files and you want them to land in YouTube Studio as private drafts without hand uploading. This track is optional. You do not need it to monetize.  
+> **Time needed:** About 90 minutes for the API setup and a first private upload. The audit application is a separate project of several hours plus waiting time with no guaranteed outcome.  
+> **Needs:** A Google account that owns the channel, Python 3.11, finished videos that have passed gates C1 to C8, `04-human-checkpoints.md` read.  
+> **Cost:** $0
 
 ## Inputs
 
