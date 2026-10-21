@@ -1,10 +1,10 @@
 # Tracking Sheet (Google Sheets)
 
-> **Purpose:** One Google Sheet that records every upload, computes pace toward the YPP thresholds, and drives a 30-minute weekly review.
-> **Use when:** After your first upload, and every week after that.
-> **Time needed:** 40 minutes to build; 30 minutes per weekly review.
-> **Needs:** A Google account, Google Sheets, access to YouTube Studio → Analytics and Earn.
-> **Cost:** $0
+> **Purpose:** One Google Sheet that records every upload, computes pace toward the YPP thresholds, and drives a 30-minute weekly review.  
+> **Use when:** After your first upload, and every week after that.  
+> **Time needed:** 40 minutes to build; 30 minutes per weekly review.  
+> **Needs:** A Google account, Google Sheets, access to YouTube Studio → Analytics and Earn.  
+> **Cost:** $0  
 
 ## Inputs
 
