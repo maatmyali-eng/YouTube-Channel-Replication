@@ -1,10 +1,10 @@
 # Originality Scoring Rubric
 
-> Purpose: Score a finished script or video plan out of 100 and decide to publish, revise, or reject.
-> Use when: Before publishing any long video or Short, and when reviewing a batch.
-> Time needed: 10 minutes per video.
-> Needs: The script or a timestamped summary, a source log, the asset log, a free chat AI.
-> Cost: $0
+> **Purpose:** Score a finished script or video plan out of 100 and decide to publish, revise, or reject.  
+> **Use when:** Before publishing any long video or Short, and when reviewing a batch.  
+> **Time needed:** 10 minutes per video.  
+> **Needs:** The script or a timestamped summary, a source log, the asset log, a free chat AI.  
+> **Cost:** $0
 
 ## Inputs
 
