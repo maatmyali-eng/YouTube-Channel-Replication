@@ -1,10 +1,10 @@
 # Workflow C: Custom Software (Channel Workbench)
 
-> Purpose: Design and build, with free tools and Claude as your pair programmer, one local app that holds the Channel Style Analyzer, the content queue with enforced gates, and the asset manager.
-> Use when: Workflows A and B work, you have outgrown a spreadsheet, and you want rules enforced by software instead of by memory.
-> Time needed: About 25 to 40 hours in total, one milestone per session of 2 to 5 hours (planning estimates, not measured).
-> Needs: Python 3.11, a free Claude chat account (or any free coding assistant), `05-low-code-workflow.md` finished, a free GitHub account for version control.
-> Cost: $0
+> **Purpose:** Design and build, with free tools and Claude as your pair programmer, one local app that holds the Channel Style Analyzer, the content queue with enforced gates, and the asset manager.  
+> **Use when:** Workflows A and B work, you have outgrown a spreadsheet, and you want rules enforced by software instead of by memory.  
+> **Time needed:** About 25 to 40 hours in total, one milestone per session of 2 to 5 hours (planning estimates, not measured).  
+> **Needs:** Python 3.11, a free Claude chat account (or any free coding assistant), `05-low-code-workflow.md` finished, a free GitHub account for version control.  
+> **Cost:** $0
 
 ## Inputs
 
