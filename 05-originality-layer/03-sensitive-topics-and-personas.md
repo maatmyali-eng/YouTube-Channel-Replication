@@ -1,10 +1,10 @@
 # Sensitive Topics, AI Personas, and Synthetic Media
 
-> Purpose: Keep a channel monetizable while covering topics near health, finance, legal, and news, and while using AI voices, avatars, or images.
-> Use when: Before choosing a topic, before scripting, and before publishing any video that touches a sensitive subject or uses synthetic media.
-> Time needed: 10 minutes per video; 30 minutes to set up the channel's rules once.
-> Needs: The video topic, the script or outline, your asset log, a free chat AI.
-> Cost: $0
+> **Purpose:** Keep a channel monetizable while covering topics near health, finance, legal, and news, and while using AI voices, avatars, or images.  
+> **Use when:** Before choosing a topic, before scripting, and before publishing any video that touches a sensitive subject or uses synthetic media.  
+> **Time needed:** 10 minutes per video; 30 minutes to set up the channel's rules once.  
+> **Needs:** The video topic, the script or outline, your asset log, a free chat AI.  
+> **Cost:** $0
 
 ## Inputs
 
