@@ -1,10 +1,10 @@
-# yt-style-system
+# YouTube-Channel-Replication
 
 > Purpose: replicate the style of any YouTube channel as new, original, policy-safe content | Use when: you want to model a channel you admire without copying it | Time needed: 60 minutes to set up a new channel | Needs: a browser, a free Google account, a free AI chat tool | Cost: $0
 
 ## What this repo is
 
-yt-style-system is a set of guides, copy-paste prompts, templates, workflows and one checking script for building a YouTube channel in the style of a channel you choose. It covers long-form videos, Shorts, thumbnails, metadata, automation, and a plan to reach monetization as fast as the rules allow. Nothing in it is tied to one channel. Everything channel-specific is a square-bracket variable such as [CHANNEL_URL] or [STYLE_BIBLE], which you fill in once per channel.
+YouTube-Channel-Replication is a set of guides, copy-paste prompts, templates, workflows and one checking script for building a YouTube channel in the style of a channel you choose. It covers long-form videos, Shorts, thumbnails, metadata, automation, and a plan to reach monetization as fast as the rules allow. Nothing in it is tied to one channel. Everything channel-specific is a square-bracket variable such as [CHANNEL_URL] or [STYLE_BIBLE], which you fill in once per channel.
 
 It is for solo creators and small teams who have more time than money, want to run the process again for each new channel, and want a result that YouTube can monetize. It is not a tool for cloning a creator, and it does not hide anything from YouTube.
 
@@ -171,7 +171,7 @@ The script uses only the Python 3 standard library. Run it from the repo root, o
 
 ```bash
 python3 scripts/check_repo.py
-python3 scripts/check_repo.py --root /path/to/yt-style-system
+python3 scripts/check_repo.py --root /path/to/YouTube-Channel-Replication
 python3 scripts/check_repo.py --strict
 python3 scripts/check_repo.py --no-write
 ```
