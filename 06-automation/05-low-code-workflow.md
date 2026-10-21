@@ -1,10 +1,10 @@
 # Workflow B: Low-Code Pipeline (Python, GitHub Actions, Free LLM Tier, Kokoro, Whisper, FFmpeg)
 
-> Purpose: Run script drafting on a weekly schedule, then render voice, captions and a rough cut with open-source tools, all driven by the Google Sheets queue from Workflow A.
-> Use when: Workflow A works, you can copy and paste commands into a terminal, and you want the sheet to drive the work instead of your clicks.
-> Time needed: About 3 hours for setup, then 15 minutes per week plus rendering time.
-> Needs: A Google account, a free GitHub account, a computer with Python 3.11, FFmpeg and espeak-ng installed, the `Pipeline` sheet from `02-no-code-workflow.md`.
-> Cost: $0
+> **Purpose:** Run script drafting on a weekly schedule, then render voice, captions and a rough cut with open-source tools, all driven by the Google Sheets queue from Workflow A.  
+> **Use when:** Workflow A works, you can copy and paste commands into a terminal, and you want the sheet to drive the work instead of your clicks.  
+> **Time needed:** About 3 hours for setup, then 15 minutes per week plus rendering time.  
+> **Needs:** A Google account, a free GitHub account, a computer with Python 3.11, FFmpeg and espeak-ng installed, the `Pipeline` sheet from `02-no-code-workflow.md`.  
+> **Cost:** $0
 
 ## Inputs
 
