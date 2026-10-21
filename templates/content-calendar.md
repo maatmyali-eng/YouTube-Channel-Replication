@@ -1,9 +1,9 @@
 # Content Calendar (4 Weeks)
 
-> **Purpose:** A copy-paste 4-week calendar that forces variety between uploads and builds the gate days in.
-> **Use when:** Before week 1, and again every 4 weeks.
-> **Time needed:** 20 minutes to fill; 5 minutes to update weekly.
-> **Needs:** Your [STYLE_BIBLE], the [tracking sheet](../09-operations/03-tracking-sheet.md), and the [per-video checklist](per-video-checklist.md).
+> **Purpose:** A copy-paste 4-week calendar that forces variety between uploads and builds the gate days in.  
+> **Use when:** Before week 1, and again every 4 weeks.  
+> **Time needed:** 20 minutes to fill; 5 minutes to update weekly.  
+> **Needs:** Your [STYLE_BIBLE], the [tracking sheet](../09-operations/03-tracking-sheet.md), and the [per-video checklist](per-video-checklist.md).  
 > **Cost:** $0
 
 ## Inputs
