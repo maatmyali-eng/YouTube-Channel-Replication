@@ -1,10 +1,10 @@
 # Style Bible Worked Example: "Ledger Kitchen" (Invented)
 
-> Purpose: Show a fully filled Style Bible and how it changes a script prompt's output.
-> Use when: You want to see what "done" looks like before filling your own bible.
-> Time needed: 20 minutes to read.
-> Needs: 03-style-bible-template.md open beside it.
-> Cost: $0
+> **Purpose:** Show a fully filled Style Bible and how it changes a script prompt's output.  
+> **Use when:** You want to see what "done" looks like before filling your own bible.  
+> **Time needed:** 20 minutes to read.  
+> **Needs:** 03-style-bible-template.md open beside it.  
+> **Cost:** $0  
 
 **This is an invented example.** "Ledger Kitchen" is not a real channel. Its source channel, its numbers, and its sample outputs are made up for demonstration in the neutral niche "home cooking on a budget". Do not copy its rules into your channel; derive yours from your own analysis.
 
