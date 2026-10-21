@@ -1,10 +1,10 @@
 # A/B Testing and Thumbnail Safety
 
-> Purpose: Test thumbnails for free, read the results without fooling yourself, and clear every thumbnail for copyright, likeness, logo, and policy risk.
-> Use when: Every upload, before publishing, and again 7 to 14 days after.
-> Time needed: 10 minutes before publishing; 10 minutes per test result.
-> Needs: YouTube Studio on desktop, `thumb-test-log` Google Sheet.
-> Cost: $0
+> **Purpose:** Test thumbnails for free, read the results without fooling yourself, and clear every thumbnail for copyright, likeness, logo, and policy risk.  
+> **Use when:** Every upload, before publishing, and again 7 to 14 days after.  
+> **Time needed:** 10 minutes before publishing; 10 minutes per test result.  
+> **Needs:** YouTube Studio on desktop, `thumb-test-log` Google Sheet.  
+> **Cost:** $0
 
 ## Inputs
 
