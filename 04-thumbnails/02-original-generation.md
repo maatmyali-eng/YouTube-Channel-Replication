@@ -1,10 +1,10 @@
 # Original Thumbnail Generation
 
-> Purpose: Produce brand-new thumbnail images in the family style of [THUMB_DNA] using free generators, with a built-in method to stay clearly different from the source thumbnails.
-> Use when: You have a [THUMB_DNA] block and a [VIDEO_TOPIC].
-> Time needed: 20 to 30 minutes per video (3 variants).
-> Needs: One free image generator or none (fallbacks below), a free editor from 03-design-workflow-and-templates.md.
-> Cost: $0
+> **Purpose:** Produce brand-new thumbnail images in the family style of [THUMB_DNA] using free generators, with a built-in method to stay clearly different from the source thumbnails.  
+> **Use when:** You have a [THUMB_DNA] block and a [VIDEO_TOPIC].  
+> **Time needed:** 20 to 30 minutes per video (3 variants).  
+> **Needs:** One free image generator or none (fallbacks below), a free editor from 03-design-workflow-and-templates.md.  
+> **Cost:** $0  
 
 ## Inputs
 
