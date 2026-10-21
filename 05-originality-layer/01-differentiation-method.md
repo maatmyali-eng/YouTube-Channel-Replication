@@ -1,10 +1,10 @@
 # Differentiation Method
 
-> Purpose: Give every upload real added value so no two videos look templated, which is what YouTube's inauthentic-content rules target.
-> Use when: Before scripting any video or Short, and again when you review the last five uploads.
-> Time needed: 20 minutes per video; 30 minutes for the five-upload audit.
-> Needs: Your last 5 uploads (or planned ones), a Google Sheet, a free chat AI.
-> Cost: $0
+> **Purpose:** Give every upload real added value so no two videos look templated, which is what YouTube's inauthentic-content rules target.  
+> **Use when:** Before scripting any video or Short, and again when you review the last five uploads.  
+> **Time needed:** 20 minutes per video; 30 minutes for the five-upload audit.  
+> **Needs:** Your last 5 uploads (or planned ones), a Google Sheet, a free chat AI.  
+> **Cost:** $0
 
 ## Inputs
 
