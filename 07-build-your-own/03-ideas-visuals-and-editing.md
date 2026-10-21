@@ -1,7 +1,10 @@
 # Build Your Own, Part 3: Visuals and Editing Tools
 
-> **Purpose:** five tools for captions, free-licensed footage, license records, thumbnails, and pacing checks > **Use when:** you make videos every week and want the repeatable parts automated  
-> **Time needed:** 2 to 4 hours per tool > **Needs:** Python 3.11 or later, FFmpeg, a free Claude or Gemini chat > **Cost:** $0
+> **Purpose:** five tools for captions, free-licensed footage, license records, thumbnails, and pacing checks  
+> **Use when:** you make videos every week and want the repeatable parts automated  
+> **Time needed:** 2 to 4 hours per tool  
+> **Needs:** Python 3.11 or later, FFmpeg, a free Claude or Gemini chat  
+> **Cost:** $0
 ## Inputs
 
 - [FACE_OR_FACELESS], [VOICE_MODE], [HARDWARE], [VIDEO_LENGTH], [LANGUAGE] from the setup card.
