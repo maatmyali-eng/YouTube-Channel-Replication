@@ -1,6 +1,10 @@
 # Build Your Own, Part 2: Script and Voice Tools
 
-> Purpose: five checkers and helpers that keep scripts varied, original, and cleanly voiced | Use when: you produce scripts or AI voiceover regularly | Time needed: 1.5 to 3 hours per tool | Needs: Python 3.11 or later, a free Claude or Gemini chat, optionally a Google account | Cost: $0
+> **Purpose:** five checkers and helpers that keep scripts varied, original, and cleanly voiced  
+> **Use when:** you produce scripts or AI voiceover regularly  
+> **Time needed:** 1.5 to 3 hours per tool  
+> **Needs:** Python 3.11 or later, a free Claude or Gemini chat, optionally a Google account  
+> **Cost:** $0
 
 ## Inputs
 
