@@ -1,10 +1,10 @@
 # Visual Production (Long-Form)
 
-> **Purpose:** Build the shot list, source or make the visuals, edit in a free editor, add captions, and avoid the "slideshow with TTS" pattern.
-> **Use when:** You have the final voice track and the script.
-> **Time needed:** 3 to 6 hours for a 10-minute video at first; 1.5 to 3 hours with practice.
-> **Needs:** `voice.wav`, final script, DaVinci Resolve (free) or CapCut (free), a phone camera or screen recorder.
-> **Cost:** $0
+> **Purpose:** Build the shot list, source or make the visuals, edit in a free editor, add captions, and avoid the "slideshow with TTS" pattern.  
+> **Use when:** You have the final voice track and the script.  
+> **Time needed:** 3 to 6 hours for a 10-minute video at first; 1.5 to 3 hours with practice.  
+> **Needs:** `voice.wav`, final script, DaVinci Resolve (free) or CapCut (free), a phone camera or screen recorder.  
+> **Cost:** $0  
 
 ## Inputs
 
