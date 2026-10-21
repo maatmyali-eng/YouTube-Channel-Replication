@@ -1,9 +1,9 @@
 # Batch Short Scripts With Enforced Variety
 
-> **Purpose:** Draft 10 to 30 Short scripts in one planning run so that hook types, structures, topics, lengths and loops rotate and no upload looks templated.
-> **Use when:** You have a [SHORTS_DNA] block and at least 4 topic pillars for the channel.
-> **Time needed:** 60 to 90 minutes for a batch of 10, about 2 hours for 30.
-> **Needs:** Any free AI chat assistant, Google Sheets, the report `reports/shorts-dna-<date>.md`.
+> **Purpose:** Draft 10 to 30 Short scripts in one planning run so that hook types, structures, topics, lengths and loops rotate and no upload looks templated.  
+> **Use when:** You have a [SHORTS_DNA] block and at least 4 topic pillars for the channel.  
+> **Time needed:** 60 to 90 minutes for a batch of 10, about 2 hours for 30.  
+> **Needs:** Any free AI chat assistant, Google Sheets, the report `reports/shorts-dna-<date>.md`.  
 > **Cost:** $0
 
 A batch is a drafting convenience. It does not make mass production acceptable. YouTube's inauthentic content policy covers generic, repetitive, or template-based content with little variation between videos (verified 2026-10-20, `appendices/research-snapshot.md`), and the monetization policy defines repetitious content as a channel where viewers have trouble spotting the difference between videos. Two defenses work together here: the variety rules in this file, and a different proof asset of your own in every Short. Do not generate 30 scripts and publish 30 Shorts in one day. Publishing cadence is set in [../08-monetization/02-30-day-plan.md](../08-monetization/02-30-day-plan.md).
