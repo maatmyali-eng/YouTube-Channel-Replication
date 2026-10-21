@@ -1,10 +1,10 @@
 # Build Your Own, Part 1: Research and Ideation Tools
 
-> **Purpose:** five small tools that find topics, mine audience questions, and map a channel's patterns   
-| **Use when:** you want your own tooling instead of doing research by hand   
-| **Time needed:** 1 to 4 hours per tool   
-| **Needs:** a free Google account, a free Claude or Gemini chat, optionally Python 3.11 or later   
-| **Cost:** $0
+> **Purpose:** five small tools that find topics, mine audience questions, and map a channel's patterns  
+> **Use when:** you want your own tooling instead of doing research by hand  
+> **Time needed:** 1 to 4 hours per tool  
+> **Needs:** a free Google account, a free Claude or Gemini chat, optionally Python 3.11 or later  
+> **Cost:** $0
 
 ## Inputs
 
