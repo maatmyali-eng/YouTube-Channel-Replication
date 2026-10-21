@@ -1,6 +1,10 @@
 # Build Your Own, Part 4: Publishing and Analytics Tools
 
-> Purpose: five tools to log metadata tests, record retention lessons, plan repurposing, read analytics, and check a video before upload | Use when: you have published videos or are close to your first upload | Time needed: 2 to 4 hours per tool | Needs: a free Google account, Python 3.11 or later for two tools, a free Claude or Gemini chat | Cost: $0
+> **Purpose:** five tools to log metadata tests, record retention lessons, plan repurposing, read analytics, and check a video before upload  
+> **Use when:** you have published videos or are close to your first upload  
+> **Time needed:** 2 to 4 hours per tool  
+> **Needs:** a free Google account, Python 3.11 or later for two tools, a free Claude or Gemini chat  
+> **Cost:** $0
 
 ## Inputs
 
