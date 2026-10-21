@@ -1,10 +1,10 @@
 # Growth Levers and KPIs
 
-> Purpose: Use policy-safe growth levers, read YouTube Studio analytics correctly, and make double-down or pivot decisions from fixed thresholds.
-> Use when: At every weekly review (Days 7, 14, 21, 28) and after every 5 uploads.
-> Time needed: 30 minutes per weekly review.
-> Needs: YouTube Studio access, the tracking sheet, and the minimum daily views from 01-reality-and-timeline-math.md.
-> Cost: $0
+> **Purpose:**  Use policy-safe growth levers, read YouTube Studio analytics correctly, and make double-down or pivot decisions from fixed thresholds.  
+> **Use when:**  At every weekly review (Days 7, 14, 21, 28) and after every 5 uploads.  
+> **Time needed:**  30 minutes per weekly review.  
+> **Needs:**  YouTube Studio access, the tracking sheet, and the minimum daily views from 01-reality-and-timeline-math.md.  
+> **Cost:**  $0
 
 ## Inputs
 
