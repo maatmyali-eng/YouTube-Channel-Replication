@@ -1,9 +1,9 @@
 # YouTube-Channel-Replication
 
-> **Purpose:** replicate the style of any YouTube channel as new, original, policy-safe content >  
-> **Use when:** you want to model a channel you admire without copying it >  
-> **Time needed:** 60 minutes to set up a new channel >  
-> **Needs:** a browser, a free Google account, a free AI chat tool >  
+> **Purpose:** replicate the style of any YouTube channel as new, original, policy-safe content   
+> **Use when:** you want to model a channel you admire without copying it   
+> **Time needed:** 60 minutes to set up a new channel   
+> **Needs:** a browser, a free Google account, a free AI chat tool   
 > **Cost:** $0
 
 ## What this repo is
