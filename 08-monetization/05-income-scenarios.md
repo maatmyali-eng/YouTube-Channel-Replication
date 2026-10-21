@@ -1,10 +1,10 @@
 # Income Scenarios
 
-> Purpose: Show best, likely and worst income for days 1 to 30 and 31 to 90 with stated assumptions and arithmetic you can redo, and give a plan for results below the worst case.
-> Use when: At the Day 30 retro, and whenever someone tells you a number that sounds too good.
-> Time needed: 45 minutes.
-> Needs: The chosen route from 03-parallel-routes.md and your own prices.
-> Cost: $0
+> **Purpose:** Show best, likely and worst income for days 1 to 30 and 31 to 90 with stated assumptions and arithmetic you can redo, and give a plan for results below the worst case.  
+> **Use when:** At the Day 30 retro, and whenever someone tells you a number that sounds too good.  
+> **Time needed:** 45 minutes.  
+> **Needs:** The chosen route from 03-parallel-routes.md and your own prices.  
+> **Cost:** $0
 
 ## Inputs
 
